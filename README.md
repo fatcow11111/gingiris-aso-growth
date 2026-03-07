@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/logo.png" alt="Gingiris Logo" width="120" />
+
 # 📱 ASO & App Cold Start Playbook
 
 ### Complete guide from App Store Optimization to UGC operations, multi-platform content strategy, and AI-powered scaling
@@ -14,6 +16,8 @@
 ---
 
 ## ⭐ Star This Repo
+
+<img width="100%" src="assets/star.png" alt="Star this repo" />
 
 If you find this playbook useful, a GitHub Star ⭐ helps others discover it!
 
